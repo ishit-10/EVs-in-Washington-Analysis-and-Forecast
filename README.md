@@ -1,10 +1,11 @@
-⚡ Electric Vehicle (EV) Analysis & Forecasting – Washington State
+**⚡ Electric Vehicle (EV) Analysis & Forecasting – Washington State**
+
 A complete end-to-end data science project analyzing Electric Vehicle (EV) adoption in Washington using real-world registration data. It combines exploratory data analysis, ML-based brand prediction, and time-series forecasting to uncover trends and predict future growth.
 
 
 ---
 
-🚀 Highlights
+**🚀 Highlights**
 
 📊 EDA with Python (Pandas, Seaborn, Plotly)
 
@@ -20,14 +21,14 @@ A complete end-to-end data science project analyzing Electric Vehicle (EV) adopt
 
 ---
 
-🧪 Tech Stack
+**🧪 Tech Stack**
 
 Python | Pandas | Seaborn | Scikit-Learn | Prophet | Tableau | Matplotlib
 
 
 ---
 
-🧠 ML & Forecasting
+**🧠 ML & Forecasting**
 
 🔤 EV Brand Prediction
 
@@ -38,7 +39,7 @@ Model: RandomForestClassifier (~89% Accuracy)
 Output: Most probable brand per user features + Feature importance
 
 
-📈 Sales Forecasting (2012–2032)
+**📈 Sales Forecasting (till 2032)**
 
 Brand-wise EV trend forecasting using:
 
@@ -46,14 +47,13 @@ Facebook Prophet
 
 Linear Regression
 
-
 Forecast visualized in multi-colored trends per brand
 
 
 
 ---
 
-📊 Tableau Dashboards
+**📊 Tableau Dashboard**
 
 Created using ev_eda_cleaned_for_tableau.csv:
 
